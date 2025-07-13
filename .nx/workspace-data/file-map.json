@@ -7,7 +7,7 @@
     "nonProjectFiles": [
       {
         "file": ".gitignore",
-        "hash": "7963091515046554906"
+        "hash": "2449051891002035871"
       },
       {
         "file": ".idea/.gitignore",
@@ -66,10 +66,6 @@
         "hash": "11356371890947667514"
       },
       {
-        "file": "myorg/package-lock.json",
-        "hash": "2791468026090884947"
-      },
-      {
         "file": "myorg/package.json",
         "hash": "5170115610936049451"
       },
@@ -82,82 +78,78 @@
         "hash": "9824341889371542022"
       },
       {
-        "file": "package-lock.json",
-        "hash": "1094770708989598407"
-      },
-      {
         "file": "package.json",
         "hash": "16056657062992431741"
       }
     ],
     "projectFileMap": {
-      "cart": [
+      "checkout": [
         {
-          "file": "myorg/apps/cart/eslint.config.mjs",
+          "file": "myorg/apps/checkout/eslint.config.mjs",
           "hash": "16756400681144203361"
         },
         {
-          "file": "myorg/apps/cart/module-federation.config.ts",
-          "hash": "7500485909642227764"
+          "file": "myorg/apps/checkout/module-federation.config.ts",
+          "hash": "14717425883527532622"
         },
         {
-          "file": "myorg/apps/cart/project.json",
-          "hash": "12269536587166101474"
+          "file": "myorg/apps/checkout/project.json",
+          "hash": "9273009764422257115"
         },
         {
-          "file": "myorg/apps/cart/public/favicon.ico",
+          "file": "myorg/apps/checkout/public/favicon.ico",
           "hash": "9303420814833116677"
         },
         {
-          "file": "myorg/apps/cart/src/app/app.config.ts",
+          "file": "myorg/apps/checkout/src/app/app.config.ts",
           "hash": "4515289115773032281"
         },
         {
-          "file": "myorg/apps/cart/src/app/app.routes.ts",
+          "file": "myorg/apps/checkout/src/app/app.routes.ts",
           "hash": "12432514961207439410"
         },
         {
-          "file": "myorg/apps/cart/src/app/remote-entry/entry.routes.ts",
+          "file": "myorg/apps/checkout/src/app/remote-entry/entry.routes.ts",
           "hash": "3867460417164941437"
         },
         {
-          "file": "myorg/apps/cart/src/app/remote-entry/entry.ts",
-          "hash": "5101141740006342575"
+          "file": "myorg/apps/checkout/src/app/remote-entry/entry.ts",
+          "hash": "6485339107825819302"
         },
         {
-          "file": "myorg/apps/cart/src/app/remote-entry/nx-welcome.ts",
-          "hash": "5246007899150763428"
+          "file": "myorg/apps/checkout/src/app/remote-entry/nx-welcome.ts",
+          "hash": "14647641205399774457"
         },
         {
-          "file": "myorg/apps/cart/src/bootstrap.ts",
+          "file": "myorg/apps/checkout/src/bootstrap.ts",
           "hash": "13646108659156824644"
         },
         {
-          "file": "myorg/apps/cart/src/index.html",
-          "hash": "14674263811451003768"
+          "file": "myorg/apps/checkout/src/index.html",
+          "hash": "3468436475928157911"
         },
         {
-          "file": "myorg/apps/cart/src/main.ts",
+          "file": "myorg/apps/checkout/src/main.ts",
           "hash": "14701344671644104227"
         },
         {
-          "file": "myorg/apps/cart/src/styles.scss",
+          "file": "myorg/apps/checkout/src/styles.scss",
           "hash": "5195668842064076916"
         },
         {
-          "file": "myorg/apps/cart/tsconfig.app.json",
+          "file": "myorg/apps/checkout/tsconfig.app.json",
           "hash": "4181211902972581879"
         },
         {
-          "file": "myorg/apps/cart/tsconfig.json",
+          "file": "myorg/apps/checkout/tsconfig.json",
           "hash": "13896577289209880447"
         },
         {
-          "file": "myorg/apps/cart/webpack.config.ts",
+          "file": "myorg/apps/checkout/webpack.config.ts",
           "hash": "383329064200880040"
         },
         {
-          "file": "myorg/apps/cart/webpack.prod.config.ts",
+          "file": "myorg/apps/checkout/webpack.prod.config.ts",
           "hash": "292733372942319833"
         }
       ],
@@ -309,73 +301,73 @@
           "hash": "292733372942319833"
         }
       ],
-      "checkout": [
+      "cart": [
         {
-          "file": "myorg/apps/checkout/eslint.config.mjs",
+          "file": "myorg/apps/cart/eslint.config.mjs",
           "hash": "16756400681144203361"
         },
         {
-          "file": "myorg/apps/checkout/module-federation.config.ts",
-          "hash": "14717425883527532622"
+          "file": "myorg/apps/cart/module-federation.config.ts",
+          "hash": "7500485909642227764"
         },
         {
-          "file": "myorg/apps/checkout/project.json",
-          "hash": "9273009764422257115"
+          "file": "myorg/apps/cart/project.json",
+          "hash": "12269536587166101474"
         },
         {
-          "file": "myorg/apps/checkout/public/favicon.ico",
+          "file": "myorg/apps/cart/public/favicon.ico",
           "hash": "9303420814833116677"
         },
         {
-          "file": "myorg/apps/checkout/src/app/app.config.ts",
+          "file": "myorg/apps/cart/src/app/app.config.ts",
           "hash": "4515289115773032281"
         },
         {
-          "file": "myorg/apps/checkout/src/app/app.routes.ts",
+          "file": "myorg/apps/cart/src/app/app.routes.ts",
           "hash": "12432514961207439410"
         },
         {
-          "file": "myorg/apps/checkout/src/app/remote-entry/entry.routes.ts",
+          "file": "myorg/apps/cart/src/app/remote-entry/entry.routes.ts",
           "hash": "3867460417164941437"
         },
         {
-          "file": "myorg/apps/checkout/src/app/remote-entry/entry.ts",
-          "hash": "6485339107825819302"
+          "file": "myorg/apps/cart/src/app/remote-entry/entry.ts",
+          "hash": "5101141740006342575"
         },
         {
-          "file": "myorg/apps/checkout/src/app/remote-entry/nx-welcome.ts",
-          "hash": "14647641205399774457"
+          "file": "myorg/apps/cart/src/app/remote-entry/nx-welcome.ts",
+          "hash": "5246007899150763428"
         },
         {
-          "file": "myorg/apps/checkout/src/bootstrap.ts",
+          "file": "myorg/apps/cart/src/bootstrap.ts",
           "hash": "13646108659156824644"
         },
         {
-          "file": "myorg/apps/checkout/src/index.html",
-          "hash": "3468436475928157911"
+          "file": "myorg/apps/cart/src/index.html",
+          "hash": "14674263811451003768"
         },
         {
-          "file": "myorg/apps/checkout/src/main.ts",
+          "file": "myorg/apps/cart/src/main.ts",
           "hash": "14701344671644104227"
         },
         {
-          "file": "myorg/apps/checkout/src/styles.scss",
+          "file": "myorg/apps/cart/src/styles.scss",
           "hash": "5195668842064076916"
         },
         {
-          "file": "myorg/apps/checkout/tsconfig.app.json",
+          "file": "myorg/apps/cart/tsconfig.app.json",
           "hash": "4181211902972581879"
         },
         {
-          "file": "myorg/apps/checkout/tsconfig.json",
+          "file": "myorg/apps/cart/tsconfig.json",
           "hash": "13896577289209880447"
         },
         {
-          "file": "myorg/apps/checkout/webpack.config.ts",
+          "file": "myorg/apps/cart/webpack.config.ts",
           "hash": "383329064200880040"
         },
         {
-          "file": "myorg/apps/checkout/webpack.prod.config.ts",
+          "file": "myorg/apps/cart/webpack.prod.config.ts",
           "hash": "292733372942319833"
         }
       ]

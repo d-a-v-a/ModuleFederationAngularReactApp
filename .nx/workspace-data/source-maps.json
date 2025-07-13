@@ -1,0 +1,1038 @@
+{
+  "myorg/apps/cart": {
+    "root": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.index": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.main": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.inlineStyleLanguage": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.customWebpackConfig": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.customWebpackConfig": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.buildOptimizer": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.vendorChunk": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.namedChunks": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.dependsOn": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.port": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.publicHost": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.defaultConfiguration": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.watch": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.development": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.development.buildTarget": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.production": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.production.buildTarget": [
+      "myorg/apps/cart/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "myorg/apps/checkout": {
+    "root": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.index": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.main": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.inlineStyleLanguage": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.customWebpackConfig": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.customWebpackConfig": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.buildOptimizer": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.vendorChunk": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.namedChunks": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.dependsOn": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.port": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.publicHost": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.defaultConfiguration": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.watch": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.development": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.development.buildTarget": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.production": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.production.buildTarget": [
+      "myorg/apps/checkout/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "myorg/apps/products": {
+    "root": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.index": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.main": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.inlineStyleLanguage": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.customWebpackConfig": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.customWebpackConfig": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.buildOptimizer": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.vendorChunk": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.namedChunks": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.dependsOn": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.port": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.publicHost": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.defaultConfiguration": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.watch": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.development": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.development.buildTarget": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.production": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.configurations.production.buildTarget": [
+      "myorg/apps/products/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "myorg/apps/shop": {
+    "root": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.index": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.main": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.inlineStyleLanguage": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.customWebpackConfig": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.customWebpackConfig": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.buildOptimizer": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.vendorChunk": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.namedChunks": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.port": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.publicHost": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "myorg/apps/shop/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}

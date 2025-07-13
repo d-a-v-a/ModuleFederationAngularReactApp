@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NxAngularConfigService" workspaceLocation="file://$PROJECT_DIR$/nx.json">
+    <projects>
+      <project name="cart" file="file://$PROJECT_DIR$/myorg/apps/cart/project.json" />
+      <project name="checkout" file="file://$PROJECT_DIR$/myorg/apps/checkout/project.json" />
+      <project name="products" file="file://$PROJECT_DIR$/myorg/apps/products/project.json" />
+      <project name="shop" file="file://$PROJECT_DIR$/myorg/apps/shop/project.json" />
+    </projects>
+  </component>
+</project>
